@@ -2,8 +2,8 @@
 
 - 😄 I’m interested in sciences & technology, engineering 4.0, sports, and music production.
 - 🔭 I’m currently working on [ExplAInability](https://github.com/pierrert3/ExplAInability-P5A).
-- 🌱 I’m currently learning Data Engineering at EPF Engineer School.
-- 📫 How to reach me: **pierre.rageot@epfedu.fr**
+- 🌱 I recently gratuated from EPF Engineering School as a Data Engineer.
+- 📫 How to reach me: **pierre.rageot@gmail.com**
   
 <!--
 **pierrert3/pierrert3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
